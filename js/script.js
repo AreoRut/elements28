@@ -30,4 +30,4 @@ document.querySelector('.push').onclick=function(){
     box.style.cssText=`background-color:purple;width:${psh}px`;
     console.log(psh);
 }
-box2.innerHTML="HEllo NN";
+box2.innerHTML="HEllo WWW";
