@@ -31,3 +31,4 @@ document.querySelector('.push').onclick=function(){
     console.log(psh);
 }
 box2.innerHTML="HEllo WWW";
+box.innerHTML="Hello Wut";
