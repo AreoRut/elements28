@@ -30,5 +30,5 @@ document.querySelector('.push').onclick=function(){
     box.style.cssText=`background-color:purple;width:${psh}px`;
     console.log(psh);
 }
-//box2.innerHTML="HEllo WWW";
-box2.innerHTML="hello Garry";
+box2.innerHTML="HEllo WWW";
+//box2.innerHTML="hello Garry";
